@@ -3,6 +3,8 @@
 
 using namespace std;
 
+//Full permutation algorithm
+
 static int n=0;
 
 void swap(int *x, int *y){
